@@ -1,3 +1,4 @@
 "I have created a new branch named feature/login" 
-HelloEnter the login credentials 
+Hello
+Enter the login credentials 
 "The login credentials are: " 
