@@ -1,0 +1,4 @@
+Hello World !!!
+Take input from user
+add the values in the form of integer type
+submitting the data to the database
