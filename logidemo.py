@@ -1,0 +1,1 @@
+print("India is a land of diverse cultures, ancient wisdom, and boundless potential, where millions of hearts beat in harmony across thousands of traditions.")
